@@ -10,6 +10,6 @@ project01# test cases and test plan
 project list
 
 |project name | decsription |tool used |
+|-------------|-------------|----------|
 |project 1    |  tested a web application for funtionality and useblity | test plan and test case |
-|             |      |
-|
+
